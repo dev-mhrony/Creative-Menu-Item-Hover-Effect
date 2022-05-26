@@ -36,7 +36,7 @@ ul li a{
     font-size: 4em;
     color: #fff;
     font-weight: 700;
-    
+    transition-delay: 0.5s;
 }
 
 ul li a:hover{
