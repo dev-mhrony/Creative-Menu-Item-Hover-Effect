@@ -51,12 +51,12 @@ ul li a::before{
     pointer-events: none;
     z-index: 1;
     font-size: 0.35em;
-    color: #3bffe8;
+    color: #f80a75;
     font-weight: 500;
     letter-spacing: 100px;
     opacity: 0;
     transition: 0.5s;
-    text-shadow: 0 0 10px #3bffe8, 0 0 30px #3bffe8 , 0 0 80px #3bffe8 ;
+    text-shadow: 0 0 10px #f80a75, 0 0 30px #f80a75 , 0 0 80px #f80a75 ;
 
 }
 
