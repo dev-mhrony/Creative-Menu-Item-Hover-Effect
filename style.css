@@ -64,5 +64,4 @@ ul li a:hover::before{
 
     letter-spacing: 6px;
     opacity: 1;
-    transition-delay: 0.25s;
 }
